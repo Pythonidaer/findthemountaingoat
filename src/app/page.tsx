@@ -112,7 +112,7 @@ export default function Home() {
                           <div className="heading-h5-size color-neutral-700">Unemployed</div>
                         </div>
                       </div>
-                      <h1 className="display-2 mg-bottom-12px">Hi! I'm Jonathan</h1>
+                      <h1 className="display-2 mg-bottom-12px">Hi! I&apos;m Jonathan</h1>
                     </div>
                   </div>
                   <div id="call-to-action" className="inner-container hero-v16-sidebar-sticky">
@@ -136,9 +136,9 @@ export default function Home() {
                     <div className="card career-content-bottom">
                       <div className="rich-text-v2 w-richtext">
                         <h3>👋 My Background</h3>
-                        <p>I began freelancing as a web developer in 2019. My first contract role was in 2020, where I was able to retrofit webpages for a healthcare company during the pandemic, by fixing their CSS without touching any of their HTML content. I achieved making their website mobile responsive. After this, I was able to gain startup exposure by implementing Acronary's entire frontend stack. I built out their Figma design using React, Material UI, Node.js and custom components. I also integrated every Python API the backend team had available through Fast API and Express.</p>
+                        <p>I began freelancing as a web developer in 2019. My first contract role was in 2020, where I was able to retrofit webpages for a healthcare company during the pandemic, by fixing their CSS without touching any of their HTML content. I achieved making their website mobile responsive. After this, I was able to gain startup exposure by implementing Acronary&apos;s entire frontend stack. I built out their Figma design using React, Material UI, Node.js and custom components. I also integrated every Python API the backend team had available through Fast API and Express.</p>
                         <p>
-                          Since 2024, I have focused on accessibility at Boston Children's Hospital. My stack there introduced me to PHP, as I assisted with a lot of the website theming across their WordPress and Drupal websites. I fixed buggy jQuery, made components more responsive, and helped standardize the microsites' look and feel across multiple content management systems, while also building custom accessibility components to enhance user experience for all. I was laid off in January of this year. Now, I'm here!
+                          Since 2024, I have focused on accessibility at Boston Children&apos;s Hospital. My stack there introduced me to PHP, as I assisted with a lot of the website theming across their WordPress and Drupal websites. I fixed buggy jQuery, made components more responsive, and helped standardize the microsites' look and feel across multiple content management systems, while also building custom accessibility components to enhance user experience for all. I was laid off in January of this year. Now, I&apos;m here!
                         </p>
                         <h3>⚡️What I can provide</h3>
                         <p>
@@ -156,7 +156,7 @@ export default function Home() {
                             <p>Designed, developed, and maintained responsive and accessible frontend applications at Boston Children's Hospital</p>
                           </li>
                           <li>
-                            <p>Participated in the UI/UX design process, ensured Acronary's dashboard web app was intuitive, accessible, and visually appealing</p>
+                            <p>Participated in the UI/UX design process, ensured Acronary&apos;s dashboard web app was intuitive, accessible, and visually appealing</p>
                           </li>
                           <li>
                             <p>Have learned about performance, accessibility, and usability across different devices and browsers through my <a href="https://mindmapmethod.netlify.app" target="_blank" rel="noopener noreferrer">creation of Mind Maps</a></p>
