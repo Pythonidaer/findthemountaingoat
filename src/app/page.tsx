@@ -138,7 +138,7 @@ export default function Home() {
                         <h3>👋 My Background</h3>
                         <p>I began freelancing as a web developer in 2019. My first contract role was in 2020, where I was able to retrofit webpages for a healthcare company during the pandemic, by fixing their CSS without touching any of their HTML content. I achieved making their website mobile responsive. After this, I was able to gain startup exposure by implementing Acronary&apos;s entire frontend stack. I built out their Figma design using React, Material UI, Node.js and custom components. I also integrated every Python API the backend team had available through Fast API and Express.</p>
                         <p>
-                          Since 2024, I have focused on accessibility at Boston Children&apos;s Hospital. My stack there introduced me to PHP, as I assisted with a lot of the website theming across their WordPress and Drupal websites. I fixed buggy jQuery, made components more responsive, and helped standardize the microsites' look and feel across multiple content management systems, while also building custom accessibility components to enhance user experience for all. I was laid off in January of this year. Now, I&apos;m here!
+                          Since 2024, I have focused on accessibility at Boston Children&apos;s Hospital. My stack there introduced me to PHP, as I assisted with a lot of the website theming across their WordPress and Drupal websites. I fixed buggy jQuery, made components more responsive, and helped standardize the microsites&apos; look and feel across multiple content management systems, while also building custom accessibility components to enhance user experience for all. I was laid off in January of this year. Now, I&apos;m here!
                         </p>
                         <h3>⚡️What I can provide</h3>
                         <p>
@@ -153,7 +153,7 @@ export default function Home() {
                         <h3 id="what-i-have-achieved">📓What I have achieved</h3>
                         <ul>
                           <li>
-                            <p>Designed, developed, and maintained responsive and accessible frontend applications at Boston Children's Hospital</p>
+                            <p>Designed, developed, and maintained responsive and accessible frontend applications at Boston Children&apos;s Hospital</p>
                           </li>
                           <li>
                             <p>Participated in the UI/UX design process, ensured Acronary&apos;s dashboard web app was intuitive, accessible, and visually appealing</p>
