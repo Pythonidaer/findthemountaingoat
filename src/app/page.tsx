@@ -45,7 +45,7 @@ export default function Home() {
                     <ul role="list" className="header-nav-menu-list mg-top-24px">
                       <li className="header-nav-list-item middle"></li>
                       <li className="header-nav-list-item middle">
-                        <a
+                        <Link
                           href="#about-me"
                           className="header-nav-link w-nav-link"
                           onClick={e => {
@@ -55,15 +55,15 @@ export default function Home() {
                           }}
                         >
                           About me
-                        </a>
+                        </Link>
                       </li>
                       <li className="header-nav-list-item middle">
-                        <a href="#what-i-have-achieved" className="header-nav-link w-nav-link" onClick={e => {
+                        <Link href="#what-i-have-achieved" className="header-nav-link w-nav-link" onClick={e => {
                           e.preventDefault();
                           const el = document.getElementById('what-i-have-achieved');
                           if (el) el.scrollIntoView({ behavior: 'smooth' });
                         }}
-                        >Skills</a>
+                        >Skills</Link>
                       </li>
                       <li className="header-nav-list-item middle">
                         <a href="https://jonathan-hammond.vercel.app/" target="_blank" className="header-nav-link w-nav-link">Portfolio</a>
