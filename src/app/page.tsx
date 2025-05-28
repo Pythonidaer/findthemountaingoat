@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
+import Link from "next/link";
 import { createPortal } from "react-dom";
 
 export default function Home() {
@@ -35,9 +36,9 @@ export default function Home() {
         <div className="header-wrapper w-nav transition-opacity duration-400 ease-in" role="banner">
           <div className="container-default w-container">
             <div className="header-content-wrapper">
-              <a href="/" className="header-logo-link w-nav-brand">
+              <Link href="/" className="header-logo-link w-nav-brand">
                 <img src="/findthemountaingoat.svg" alt="findthemountaingoat logo" className="header-logo" />
-              </a>
+              </Link>
               <div className="header-middle">
                 <div role="navigation" fs-scrolldisable-element="when-visible" className="header-nav-menu-wrapper w-nav-menu">
                   <div className="div-block-5">
